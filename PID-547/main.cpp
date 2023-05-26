@@ -30,12 +30,20 @@ int main()
 				{
 					choice = login_register_form();
 
-				} while (choice != 1);
+				} while (choice != 1 && choice != 7);
 
 				if (choice == 1)
 				{
-					std::cout << " (+) Logged In Succesfully (+) \n";
-					system("pause");
+					//std::cout << " (+) Logged In Succesfully (+) \n";
+					//system("pause");
+					
+					int option;
+
+					do
+					{
+						option = loggedinWindow();
+
+					} while (option != 7);
 				}
 
 			}break;
