@@ -128,10 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="NewsAPI.cpp" />
     <ClCompile Include="UI.cpp" />
     <ClCompile Include="Users.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="NewsAPI.h" />
     <ClInclude Include="UI.h" />
     <ClInclude Include="Users.h" />
   </ItemGroup>
