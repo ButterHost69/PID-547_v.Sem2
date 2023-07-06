@@ -2,12 +2,12 @@
 
 ***
 
-### - &emsp; **Aim**
+### &emsp; - **Aim**
 #### &emsp; Fake News Detection on Social Media.
 
 ***
 
-### - &emsp; **Description**
+### &emsp; - **Description**
 #### &emsp; Check the Authenticity of News on Social media. 
 #### This project aims to provide a solution for verifying the authenticity of news articles shared on social media platforms. By leveraging  computer vision techniques and optical character recognition (OCR), the code presented here helps users determine the credibility of news by extracting text from images and comparing it against reliable sources.                   
 
