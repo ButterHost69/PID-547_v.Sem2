@@ -17,6 +17,7 @@
 - *newschecker.cpp* : This file handles the string and compares it with the existing database using a predefined algorithm.
 - *UI.cpp* : This file is responsible for the user interface, providing an interactive way for users to input images and view the authenticity results.
 - *main.cpp* : This file serves as the entry point to the program, initializing the necessary components and orchestrating the workflow.
+- *users.cpp* : This file is responsible for managing Users.
 
 ***
 
