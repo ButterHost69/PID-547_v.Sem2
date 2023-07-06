@@ -9,7 +9,7 @@
 
 ### &emsp;**Description**
 #### &emsp; Check the Authenticity of News on Social media. 
-#### &emsp; This project aims to provide a solution for verifying the authenticity of news articles shared on social media platforms. &emsp; By leveraging computer vision techniques and optical character recognition (OCR), the code presented here helps users determine the credibility &emsp; of news by extracting text from images and comparing it against reliable sources.                   
+#### &emsp; This project aims to provide a solution for verifying the authenticity of news articles shared on social media platforms. By leveraging computer vision techniques and optical character recognition (OCR), the code presented here helps users determine the credibility of news by extracting text from images and comparing it against reliable sources.                   
 
 #### The project consists of several files written in C++ and utilizes the OpenCV and Tesseract OCR libraries. The main functionalities are divided into four files:
 
