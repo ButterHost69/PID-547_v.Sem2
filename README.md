@@ -24,3 +24,6 @@
 ### &emsp; - **Libraries**
 - *Open CV* : Open CV is a library used to for image manipulation.
 - *Tessaract OCR* : Tessaract OCR was used to perform OCR ( Optical Character Recognition ) that allows us to extract text from an image.
+
+### &emsp; - **- Flow of the Code**
+***Remaining... Will be completed later***
